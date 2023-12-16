@@ -1,0 +1,16 @@
+{
+	"title": "The Rise of the Indian Gaming Juggernaut: A Data-Driven Story",
+	"description": "Sentence case dek goes down here. Modify these in data/meta.json. In the bustling streets of India, amidst the vibrant chaos and ancient history, a new revolution is brewing – a digital one fueled by pixels and passion. The Indian gaming industry, once a fledgling underdog, is now a roaring behemoth, captivating millions and transforming the landscape of Indian entertainment.",
+	"site": "https://pudding.cool",
+	"siteName": "The Analyst+",
+	"url": "https://pudding.cool/year/month/name/",
+	"keywords": "tk",
+	"imgFacebook": "https://pudding.cool/year/month/name/assets/social/social-facebook.jpg",
+	"imgTwitter": "https://pudding.cool/year/month/name/assets/social/social-twitter.jpg",
+	"author": {
+		"name": "Tejus B",
+		"url": "https://pudding.cool/author/the-pudding-team",
+		"twitterHandle": "@puddingviz"
+	},
+	"lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis neque sit amet sollicitudin vehicula. Maecenas fringilla mi non lacus mattis elementum. Curabitur dignissim faucibus justo."
+}

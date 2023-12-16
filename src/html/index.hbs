@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang='en' data-version='{{timestamp}}'>
+
+<head>
+
+	{{> base/meta}}
+// ... and so on for each chapter
+
+	<link inline rel='stylesheet' href='bundle.css' />
+
+	{{> base/font}}
+
+</head>
+
+<body>
+
+	{{> base/header 'sticky-dark'}}
+
+	<main id='content'>
+
+		{{> story/intro }}
+		{{> story/chapter1 }}
+		{{> story/chapter2 }}
+		{{> story/chapter3 }}
+		{{> story/chapter4 }}
+		{{> story/chapter5 }}
+		{{> story/chapter6 }}
+		{{> story/chapter7 }}
+		{{> story/chapter8 }}
+		{{> story/chapter9 }}
+		{{> story/chapter10 }}
+		{{> story/chapter11 }}
+		{{> story/epilogue }}
+	</main>
+
+	{{> base/footer }}
+
+
+	<script src='{{basepath}}assets/scripts/d3.v6.0.0.min.js'></script>
+	<script src='bundle.js?version={{timestamp}}' async></script>
+</body>
+
+</html>
